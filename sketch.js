@@ -1,4 +1,4 @@
-const LENGTH = 800;
+const LENGTH = 400;
 const SPEED = 1;    //update per frames
 
 let LINE_WIDTH;
